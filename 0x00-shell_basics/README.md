@@ -1,1 +1,2 @@
-Pwd is use to display current working directory
+shell command for listing directory
+Command to bring me home in the shell
